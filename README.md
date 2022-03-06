@@ -50,11 +50,13 @@ MOVA O ARQUIVO BAIXADO PARA RAIZ DA PASTA APP DO PROJETO ONDE FICA O GITGNORE
 ```
 <br/>
 <br/>
+
 ### 7. Apos isso copie as linhas de codigos e faça as imporações se necessário dos arquivos do mainActivity e do profilectvit
 
 <br/>
 
 <br/>
+
 ### 8. Em grandl.properties adicione
 
 ```javascript
